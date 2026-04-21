@@ -6,12 +6,17 @@ import joblib
 import json
 import numpy as np
 
-app = FastAPI(title="BU Dining Optimizer API")
+from fastapi.middleware.cors import CORSMiddleware
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # tighten this before any real deployment
-    allow_methods=["*"],
+    allow_origins=[
+        "https://ff86d35e-29d3-4976-a495-1de68cd43f07.lovableproject.com",
+        "http://localhost:5173",
+        "http://localhost:3000",
+    ],
+    allow_credentials=False,
+    allow_methods=["GET", "POST"],
     allow_headers=["*"],
 )
 
