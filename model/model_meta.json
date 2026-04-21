@@ -1,0 +1,29 @@
+{
+  "hall_classes": [
+    "Marciano Commons",
+    "Sargent Choice Caf\u00e9",
+    "Stuvi2 / towers",
+    "Warren Towers Dining",
+    "West Campus Dining"
+  ],
+  "meal_classes": [
+    "breakfast",
+    "dinner",
+    "lunch"
+  ],
+  "features_wait": [
+    "hall_enc",
+    "meal_enc",
+    "hour_float",
+    "day_of_week",
+    "is_weekend",
+    "occupancy_rate"
+  ],
+  "features_occ": [
+    "hall_enc",
+    "meal_enc",
+    "hour_float",
+    "day_of_week",
+    "is_weekend"
+  ]
+}

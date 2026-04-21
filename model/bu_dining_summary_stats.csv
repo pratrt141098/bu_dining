@@ -1,0 +1,106 @@
+swipe_date,day_of_week,hall,meal_period,total_swipes,unique_users,avg_wait_sec,peak_occupancy,avg_occupancy
+2026-04-06,Monday,Marciano Commons,breakfast,1777,1777,377.02,1.0,0.81
+2026-04-06,Monday,Marciano Commons,dinner,2895,2895,399.48,1.0,0.86
+2026-04-06,Monday,Marciano Commons,lunch,3228,3228,395.82,1.0,0.9
+2026-04-06,Monday,Sargent Choice Café,breakfast,625,625,391.96,1.0,0.89
+2026-04-06,Monday,Sargent Choice Café,dinner,1057,1057,402.38,1.0,0.92
+2026-04-06,Monday,Sargent Choice Café,lunch,1248,1248,421.63,1.0,0.94
+2026-04-06,Monday,Stuvi2 / towers,breakfast,650,650,370.99,1.0,0.76
+2026-04-06,Monday,Stuvi2 / towers,dinner,1057,1057,367.13,1.0,0.81
+2026-04-06,Monday,Stuvi2 / towers,lunch,1290,1290,390.01,1.0,0.88
+2026-04-06,Monday,Warren Towers Dining,breakfast,789,789,317.05,0.73,0.52
+2026-04-06,Monday,Warren Towers Dining,dinner,1308,1308,350.21,1.0,0.69
+2026-04-06,Monday,Warren Towers Dining,lunch,1598,1598,379.71,1.0,0.82
+2026-04-06,Monday,West Campus Dining,breakfast,751,751,379.17,1.0,0.76
+2026-04-06,Monday,West Campus Dining,dinner,1278,1278,379.8,1.0,0.84
+2026-04-06,Monday,West Campus Dining,lunch,1436,1436,386.43,1.0,0.88
+2026-04-07,Tuesday,Marciano Commons,breakfast,1743,1743,374.61,1.0,0.8
+2026-04-07,Tuesday,Marciano Commons,dinner,2927,2927,388.23,1.0,0.87
+2026-04-07,Tuesday,Marciano Commons,lunch,3097,3097,395.64,1.0,0.89
+2026-04-07,Tuesday,Sargent Choice Café,breakfast,644,644,381.83,1.0,0.88
+2026-04-07,Tuesday,Sargent Choice Café,dinner,1031,1031,414.93,1.0,0.91
+2026-04-07,Tuesday,Sargent Choice Café,lunch,1243,1243,404.0,1.0,0.94
+2026-04-07,Tuesday,Stuvi2 / towers,breakfast,647,647,347.42,1.0,0.74
+2026-04-07,Tuesday,Stuvi2 / towers,dinner,1119,1119,388.37,1.0,0.84
+2026-04-07,Tuesday,Stuvi2 / towers,lunch,1398,1398,392.11,1.0,0.9
+2026-04-07,Tuesday,Warren Towers Dining,breakfast,802,802,311.96,0.77,0.53
+2026-04-07,Tuesday,Warren Towers Dining,dinner,1325,1325,346.99,0.95,0.68
+2026-04-07,Tuesday,Warren Towers Dining,lunch,1584,1584,359.45,1.0,0.82
+2026-04-07,Tuesday,West Campus Dining,breakfast,818,818,380.84,1.0,0.76
+2026-04-07,Tuesday,West Campus Dining,dinner,1244,1244,385.63,1.0,0.82
+2026-04-07,Tuesday,West Campus Dining,lunch,1460,1460,394.73,1.0,0.89
+2026-04-08,Wednesday,Marciano Commons,breakfast,1765,1765,368.35,1.0,0.8
+2026-04-08,Wednesday,Marciano Commons,dinner,2880,2880,395.12,1.0,0.86
+2026-04-08,Wednesday,Marciano Commons,lunch,3059,3059,391.81,1.0,0.9
+2026-04-08,Wednesday,Sargent Choice Café,breakfast,680,680,398.11,1.0,0.89
+2026-04-08,Wednesday,Sargent Choice Café,dinner,1033,1033,394.45,1.0,0.91
+2026-04-08,Wednesday,Sargent Choice Café,lunch,1283,1283,402.54,1.0,0.94
+2026-04-08,Wednesday,Stuvi2 / towers,breakfast,688,688,372.81,1.0,0.73
+2026-04-08,Wednesday,Stuvi2 / towers,dinner,1115,1115,382.94,1.0,0.83
+2026-04-08,Wednesday,Stuvi2 / towers,lunch,1276,1276,392.6,1.0,0.87
+2026-04-08,Wednesday,Warren Towers Dining,breakfast,839,839,313.1,0.8,0.55
+2026-04-08,Wednesday,Warren Towers Dining,dinner,1312,1312,345.29,1.0,0.69
+2026-04-08,Wednesday,Warren Towers Dining,lunch,1606,1606,374.64,1.0,0.81
+2026-04-08,Wednesday,West Campus Dining,breakfast,732,732,339.41,1.0,0.73
+2026-04-08,Wednesday,West Campus Dining,dinner,1259,1259,365.51,1.0,0.83
+2026-04-08,Wednesday,West Campus Dining,lunch,1521,1521,383.8,1.0,0.88
+2026-04-09,Thursday,Marciano Commons,breakfast,1831,1831,375.67,1.0,0.82
+2026-04-09,Thursday,Marciano Commons,dinner,2902,2902,383.83,1.0,0.86
+2026-04-09,Thursday,Marciano Commons,lunch,3168,3168,395.73,1.0,0.89
+2026-04-09,Thursday,Sargent Choice Café,breakfast,669,669,405.11,1.0,0.91
+2026-04-09,Thursday,Sargent Choice Café,dinner,1037,1037,393.71,1.0,0.92
+2026-04-09,Thursday,Sargent Choice Café,lunch,1273,1273,397.4,1.0,0.93
+2026-04-09,Thursday,Stuvi2 / towers,breakfast,649,649,351.75,1.0,0.73
+2026-04-09,Thursday,Stuvi2 / towers,dinner,1053,1053,373.54,1.0,0.82
+2026-04-09,Thursday,Stuvi2 / towers,lunch,1314,1314,395.64,1.0,0.89
+2026-04-09,Thursday,Warren Towers Dining,breakfast,841,841,309.31,0.84,0.6
+2026-04-09,Thursday,Warren Towers Dining,dinner,1324,1324,344.59,1.0,0.68
+2026-04-09,Thursday,Warren Towers Dining,lunch,1587,1587,391.4,1.0,0.83
+2026-04-09,Thursday,West Campus Dining,breakfast,758,758,348.35,1.0,0.76
+2026-04-09,Thursday,West Campus Dining,dinner,1257,1257,367.93,1.0,0.82
+2026-04-09,Thursday,West Campus Dining,lunch,1495,1495,381.36,1.0,0.88
+2026-04-10,Friday,Marciano Commons,breakfast,1747,1747,372.25,1.0,0.79
+2026-04-10,Friday,Marciano Commons,dinner,2897,2897,385.22,1.0,0.86
+2026-04-10,Friday,Marciano Commons,lunch,3135,3135,386.67,1.0,0.9
+2026-04-10,Friday,Sargent Choice Café,breakfast,668,668,387.16,1.0,0.9
+2026-04-10,Friday,Sargent Choice Café,dinner,1068,1068,390.85,1.0,0.91
+2026-04-10,Friday,Sargent Choice Café,lunch,1248,1248,425.5,1.0,0.95
+2026-04-10,Friday,Stuvi2 / towers,breakfast,627,627,367.93,1.0,0.71
+2026-04-10,Friday,Stuvi2 / towers,dinner,1072,1072,380.29,1.0,0.82
+2026-04-10,Friday,Stuvi2 / towers,lunch,1342,1342,385.08,1.0,0.9
+2026-04-10,Friday,Warren Towers Dining,breakfast,825,825,346.99,0.87,0.58
+2026-04-10,Friday,Warren Towers Dining,dinner,1293,1293,350.42,0.89,0.65
+2026-04-10,Friday,Warren Towers Dining,lunch,1562,1562,363.6,1.0,0.8
+2026-04-10,Friday,West Campus Dining,breakfast,722,722,344.87,1.0,0.71
+2026-04-10,Friday,West Campus Dining,dinner,1222,1222,359.1,1.0,0.8
+2026-04-10,Friday,West Campus Dining,lunch,1554,1554,399.56,1.0,0.89
+2026-04-11,Saturday,Marciano Commons,breakfast,1122,1122,310.23,0.76,0.55
+2026-04-11,Saturday,Marciano Commons,dinner,2564,2564,380.55,1.0,0.84
+2026-04-11,Saturday,Marciano Commons,lunch,2240,2240,369.1,1.0,0.83
+2026-04-11,Saturday,Sargent Choice Café,breakfast,408,408,350.96,1.0,0.77
+2026-04-11,Saturday,Sargent Choice Café,dinner,956,956,392.91,1.0,0.88
+2026-04-11,Saturday,Sargent Choice Café,lunch,875,875,398.82,1.0,0.9
+2026-04-11,Saturday,Stuvi2 / towers,breakfast,385,385,292.84,0.58,0.45
+2026-04-11,Saturday,Stuvi2 / towers,dinner,962,962,353.82,1.0,0.8
+2026-04-11,Saturday,Stuvi2 / towers,lunch,944,944,379.18,1.0,0.83
+2026-04-11,Saturday,Warren Towers Dining,breakfast,461,461,250.2,0.51,0.32
+2026-04-11,Saturday,Warren Towers Dining,dinner,1209,1209,346.81,0.91,0.63
+2026-04-11,Saturday,Warren Towers Dining,lunch,1170,1170,342.34,1.0,0.69
+2026-04-11,Saturday,West Campus Dining,breakfast,437,437,306.99,0.67,0.46
+2026-04-11,Saturday,West Campus Dining,dinner,1139,1139,380.57,1.0,0.81
+2026-04-11,Saturday,West Campus Dining,lunch,1046,1046,385.38,1.0,0.83
+2026-04-12,Sunday,Marciano Commons,breakfast,1081,1081,316.81,0.75,0.55
+2026-04-12,Sunday,Marciano Commons,dinner,2633,2633,386.77,1.0,0.84
+2026-04-12,Sunday,Marciano Commons,lunch,2211,2211,369.13,1.0,0.82
+2026-04-12,Sunday,Sargent Choice Café,breakfast,368,368,369.75,1.0,0.77
+2026-04-12,Sunday,Sargent Choice Café,dinner,951,951,406.98,1.0,0.9
+2026-04-12,Sunday,Sargent Choice Café,lunch,909,909,390.15,1.0,0.91
+2026-04-12,Sunday,Stuvi2 / towers,breakfast,423,423,311.26,0.67,0.47
+2026-04-12,Sunday,Stuvi2 / towers,dinner,970,970,369.62,1.0,0.78
+2026-04-12,Sunday,Stuvi2 / towers,lunch,917,917,366.41,1.0,0.82
+2026-04-12,Sunday,Warren Towers Dining,breakfast,481,481,275.32,0.49,0.33
+2026-04-12,Sunday,Warren Towers Dining,dinner,1161,1161,330.74,0.87,0.62
+2026-04-12,Sunday,Warren Towers Dining,lunch,1179,1179,348.05,0.94,0.69
+2026-04-12,Sunday,West Campus Dining,breakfast,452,452,294.76,0.61,0.44
+2026-04-12,Sunday,West Campus Dining,dinner,1127,1127,362.11,1.0,0.79
+2026-04-12,Sunday,West Campus Dining,lunch,1141,1141,373.86,1.0,0.84
