@@ -5,14 +5,13 @@ from datetime import datetime
 import joblib
 import json
 import numpy as np
+import os
+
+app = FastAPI(title="BU Dining Optimizer API")  # ← must come BEFORE add_middleware
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "https://ff86d35e-29d3-4976-a495-1de68cd43f07.lovableproject.com",
-        "http://localhost:5173",
-        "http://localhost:3000",
-    ],
+    allow_origins=["*"],
     allow_credentials=False,
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
